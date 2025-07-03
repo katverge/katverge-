@@ -1,6 +1,6 @@
 # katverge-
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
-# 👋 Hi, I'm [Kat]  
+# 👋 Hi, I'm Kat  
 Aspiring **Data Analyst** based in the Philippines 🇵🇭 | Building projects in **Python**, **SQL**, **Excel**, and **Power BI**
 
 ### 💼 About Me
